@@ -24,6 +24,7 @@
   - 
 - **Quests**:
   - Basic quests to start with, evolving into more complex, lore-rich quests.
+  - More difficult quests shall provide greater reward to advance to higher levels
   - Quests will be categorized by difficulty: Common, Uncommon, Rare, Epic, Legendary.
   - Include faction-based quests tied to the overarching storyline.
 
